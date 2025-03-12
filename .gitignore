@@ -1,18 +1,9 @@
-.DS_Store
-.idea
-*.log
-tmp/
-
-*.py[cod]
-*.egg
-htmlcov
-
-.projectile
-.venv/
-venv/
-.mypy_cache/
-*.egg-info/
-
-# Visual Studio Code
-.vscode/*
-!.vscode/tasks.json
+.env
+secrets.conf
+*.swp
+*.tmp
+printer-[0-9]*_[0-9]*.cfg
+*.bak
+*.bkp
+*.csv
+*.zip

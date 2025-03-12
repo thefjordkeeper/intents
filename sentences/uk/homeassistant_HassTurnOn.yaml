@@ -1,6 +1,0 @@
-language: uk
-intents:
-  HassTurnOn:
-    data:
-    - sentences:
-        - "<ввімкни> <name>"

@@ -1,7 +1,0 @@
-language: "en"
-intents:
-  HassTurnOff:
-    data:
-      - sentences:
-          - "turn off <name>"
-          - "turn <name> off"

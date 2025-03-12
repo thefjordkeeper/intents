@@ -1,5 +1,0 @@
-language: sl
-intents:
-  HassLightSet:
-    data:
-    - sentences: []

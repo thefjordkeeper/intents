@@ -1,6 +1,0 @@
-language: da
-intents:
-  HassTurnOn:
-    data:
-      - sentences:
-          - "<tænd> <navn>"

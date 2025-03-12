@@ -1,5 +1,0 @@
-language: tr
-responses:
-  intents:
-    HassClimateGetTemperature:
-      success: []

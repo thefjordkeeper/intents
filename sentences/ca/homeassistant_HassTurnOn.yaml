@@ -1,6 +1,0 @@
-language: ca
-intents:
-  HassTurnOn:
-    data:
-    - sentences:
-      - "<engega> <name> [en marxa]"

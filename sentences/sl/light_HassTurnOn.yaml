@@ -1,8 +1,0 @@
-language: sl
-intents:
-  HassTurnOn:
-    data:
-    - sentences: []
-      slots:
-        domain: light
-        name: all

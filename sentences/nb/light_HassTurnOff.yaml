@@ -1,8 +1,0 @@
-language: 'nb'
-intents:
-  HassTurnOff:
-    data:
-      - sentences: []
-        slots:
-          domain: light
-          name: all

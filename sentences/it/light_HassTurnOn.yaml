@@ -1,9 +1,0 @@
-language: "it"
-intents:
-  HassTurnOn:
-    data:
-      - sentences:
-          - "<turn_on> [tutte] [(la | le)] (luce | luci) [(<of> | <in>)] <area>"
-          - "<turn_on> [<in>] <area> [tutte] [(la | le)] (luce | luci)"
-        slots:
-          domain: "light"

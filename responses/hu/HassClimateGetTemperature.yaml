@@ -1,6 +1,0 @@
-language: hu
-responses:
-  intents:
-    HassClimateGetTemperature:
-      success:
-        - "{{ state.state }} fok van"

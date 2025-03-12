@@ -1,6 +1,0 @@
-language: "nl"
-responses:
-  intents:
-    HassClimateGetTemperature:
-      success:
-        - "{{ state.state }} graden"

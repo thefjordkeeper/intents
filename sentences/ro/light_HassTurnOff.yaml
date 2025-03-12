@@ -1,9 +1,0 @@
-language: ro
-intents:
-  HassTurnOff:
-    data:
-      - sentences:
-          - "<inchide> [toate] <lumina> [<din>] <area>"
-          - "<inchide> [<din>] <area> [toate] <lumina>"
-        slots:
-          domain: "light"

@@ -1,5 +1,0 @@
-language: hr
-intents:
-  HassTurnOn:
-    data:
-    - sentences: []

@@ -1,7 +1,0 @@
-language: es
-intents:
-  HassTurnOff:
-    data:
-      - sentences:
-          - "apaga <name> <area>"
-          - "desactiva <name> <area>"

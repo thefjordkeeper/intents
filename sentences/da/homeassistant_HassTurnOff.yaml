@@ -1,6 +1,0 @@
-language: da
-intents:
-  HassTurnOff:
-    data:
-      - sentences:
-          - "<sluk> <navn>"

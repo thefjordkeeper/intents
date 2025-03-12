@@ -1,8 +1,0 @@
-language: pl
-intents:
-  HassTurnOff:
-    data:
-      - sentences:
-          - "<turn_off> [wszystkie | całe ] [światła | światło] <area>"
-        slots:
-          domain: "light"

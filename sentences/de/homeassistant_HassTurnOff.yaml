@@ -1,7 +1,0 @@
-language: de
-intents:
-  HassTurnOff:
-    data:
-      - sentences:
-          - "schalte <name> (ab | aus)"
-          - "stoppe <name>"

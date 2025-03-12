@@ -1,6 +1,0 @@
-language: ca
-intents:
-  HassTurnOff:
-    data:
-    - sentences:
-        - "<apaga> <name>"

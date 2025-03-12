@@ -1,8 +1,0 @@
-language: fr
-intents:
-  HassTurnOn:
-    data:
-      - sentences:
-          - "<allume> [toutes] (<lumiere> | <lumieres>) (dans | du | de) <area>"
-        slots:
-          domain: "light"

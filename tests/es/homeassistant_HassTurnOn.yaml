@@ -1,9 +1,0 @@
-language: "es"
-tests:
-  - sentences:
-      - "enciende el ventilador de techo"
-      - "enciende ventilador de techo"
-    intent:
-      name: "HassTurnOn"
-      slots:
-        name: "fan.ventilador_techo"

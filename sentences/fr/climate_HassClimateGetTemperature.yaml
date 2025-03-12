@@ -1,5 +1,0 @@
-language: fr
-intents:
-  HassClimateGetTemperature:
-    data:
-      - sentences: []

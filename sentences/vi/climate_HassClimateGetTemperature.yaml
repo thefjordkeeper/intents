@@ -1,5 +1,0 @@
-language: vi
-intents:
-  HassClimateGetTemperature:
-    data:
-    - sentences: []

@@ -1,7 +1,0 @@
-language: de
-intents:
-  HassTurnOn:
-    data:
-      - sentences:
-          - "schalte <name> <an_ein>"
-          - "starte <name>"

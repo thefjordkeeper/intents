@@ -1,7 +1,0 @@
-language: es
-intents:
-  HassTurnOn:
-    data:
-      - sentences:
-          - "enciende <name>"
-          - "activa <name>"

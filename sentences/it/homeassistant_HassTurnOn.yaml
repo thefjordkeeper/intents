@@ -1,6 +1,0 @@
-language: "it"
-intents:
-  HassTurnOn:
-    data:
-      - sentences:
-          - "<turn_on> [<the>] <name>"

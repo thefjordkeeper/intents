@@ -1,9 +1,0 @@
-language: ca
-intents:
-  HassClimateGetTemperature:
-    data:
-    - sentences:
-        - "quina <temp> fa"
-        - "quina és la <temp>"
-        - "quina és la <temp> <area>"
-        - "quanta calor fa <area>"

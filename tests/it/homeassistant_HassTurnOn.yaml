@@ -1,9 +1,0 @@
-language: "it"
-tests:
-  - sentences:
-      - "accendi l'interruttore cucina"
-      - "accendi interruttore cucina"
-    intent:
-      name: "HassTurnOn"
-      slots:
-        name: "switch.cucina"

@@ -1,5 +1,0 @@
-language: ar
-intents:
-  HassLightSet:
-    data:
-    - sentences: []

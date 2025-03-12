@@ -1,6 +1,0 @@
-language: ro
-intents:
-  HassTurnOff:
-    data:
-      - sentences:
-          - "<inchide> <name>"

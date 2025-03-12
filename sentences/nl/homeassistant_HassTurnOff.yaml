@@ -1,6 +1,0 @@
-language: nl
-intents:
-  HassTurnOff:
-    data:
-      - sentences:
-          - "<doe> <name> [<naar>] uit"

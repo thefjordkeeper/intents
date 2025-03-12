@@ -1,5 +1,0 @@
-language: hr
-intents:
-  HassClimateSetTemperature:
-    data:
-    - sentences: []

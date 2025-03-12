@@ -1,7 +1,0 @@
-language: ur
-intents:
-  HassTurnOff:
-    data:
-      - sentences:
-          - "<name> (بند | off) <set>"
-          - "(بند | off) <set> <name> "
